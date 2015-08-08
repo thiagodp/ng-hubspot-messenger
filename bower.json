@@ -1,0 +1,15 @@
+{
+  "name": "ng-hubspot-messenger",
+  "main": "ng-hubspot-messenger.js",
+  "ignore": [
+    "**/.*",
+	"src",
+	"test",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+	"angular": ">=1.2.6",
+	"messenger": "~1.4"
+  }
+}
