@@ -23,6 +23,6 @@
   ],
   "dependencies": {
 	"angular": ">=1.2.6",
-	"messenger": "=1.4.1"
+	"messenger": "~1.4"
   }
 }
